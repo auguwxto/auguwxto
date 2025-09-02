@@ -1,6 +1,6 @@
 # Augusto Ramos
 
-**`Desenvolvedor Backend em formação | Java`**
+**`Desenvolvedor Backend em formação`**
 
 Olá, meu nome é Augusto Ramos, tenho 19 anos, estudante de Análise e Desenvolvimento de Sistemas. Irei me tornar Desenvolvedor Backend, buscando me especializar em Java. Apaixonado por aprender e criar soluções na área de tecnologia.
 
